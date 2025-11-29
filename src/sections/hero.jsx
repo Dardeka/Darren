@@ -14,7 +14,7 @@ function Hero() {
                 <h1 className="text-2xl font-semibold">Halo,</h1>
                 <h1 className="text-2xl font-semibold">Saya Darren Dharmasaputra K.</h1>
                 <br />
-                <p className="w-[px] max-w-[730px] text-base">Seorang mahasiswa aktif semester 5 program studi Ilmu Komputer di Universitas Negeri Jakarta yang memiliki minat dalam bidang pengembangan website, khususnya pada bidang Front-end Development. Minat ini telah dikembangkan selama 1 tahun melalui pengerjaan beberapa proyek, baik proyek pribadi maupun tugas perkuliahan.</p>
+                <p className="w-[580px] max-w-[730px] text-base">Mahasiswa semester 5 program studi Ilmu Komputer di Universitas Negeri Jakarta dengan minat kuat dalam bidang pengembangan Front-end. Pada tahun ini, saya memiliki pengalaman dalam mempelajari dan mempraktikkan pengembangan tampilan website melalui proyek pribadi dan proyek akademik. Berkomitmen untuk mengembangkan kemampuan teknis dan mencari peluang dalam proyek pengembangan website.</p>
                 <br />
                 <div className="w-[500px] flex flex-row justify-between">
                     <Button id="download-cv" onClick={handleDownloadCV} className="!bg-[#3AB0FF] font-semibold w-[232px] h-[63px] text-xl text-white shadow-xl/20 cursor-pointer hover:!bg-[#37A1E9]">
