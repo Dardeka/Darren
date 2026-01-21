@@ -7,7 +7,7 @@ import Projects from "./sections/projects";
 
 function Portfolio() {
     return (
-        <div className="w-screen min-h-screen font-lato text-black">
+        <div className="w-full min-h-screen font-lato text-black">
             <Navbar />
             <Hero />
             <AboutMe />

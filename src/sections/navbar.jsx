@@ -4,7 +4,7 @@ import { Button } from "../components/ui/button";
 function  Navbar(){
 
     return (
-        <div className="flex flex-row items-center justify-between w-screen px-[65px] max-px-[95px] h-[100px] bg-[#295F98] z-100 text-white text-xl shadow-xl/20 fixed top-0">
+        <div className="flex flex-row items-center justify-between w-full px-[65px] max-px-[95px] h-[100px] bg-[#295F98] z-100 text-white text-xl shadow-xl/20 fixed top-0">
             <h1 className="font-bold">Darren DK</h1>
             <div className="min-w-[400px] max-w-[500px] flex flex-row justify-between">
                 <Button className="!bg-transparent rounded-none"><a href="#Hero" className="text-lg">Beranda</a></Button>

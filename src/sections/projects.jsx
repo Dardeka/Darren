@@ -2,7 +2,7 @@ import { Button } from "../components/ui/button";
 
 function Projects(){
     return(
-        <section id="Project" className="pt-[146px] mx-[98px]" >
+        <section id="Project" className="pt-[146px] sm:mx-[50px] md:mx-[98px] xl:mx-[150px] 2xl:mx-[200px] items-center" >
             <div>
                 <h1 className="text-3xl text-center font-bold mb-[85px]">Proyek Saya</h1>
                 {/* Gaskeeun */}
