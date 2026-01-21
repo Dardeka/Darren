@@ -3,13 +3,13 @@ import { Button } from "../components/ui/button";
 function Hero() {
 
     const handleDownloadCV = () => {
-        const fileUrl = "https://drive.google.com/file/d/1Yla-FDB04Hr7jjWuiks_j710iXbIg7bR/view?usp=sharing"
+        const fileUrl = "https://drive.google.com/file/d/15iYHyL5w20pPl7WAh1zMA1YIYWBHYe_S/view?usp=sharing"
         const fileName = "Darren Dharmasaputra Kwariawan_CV.pdf"
         window.open(fileUrl, '_blank');
     }
 
     return (
-        <section id="Hero" className="pt-[160px] flex flex-row pl-[95px] pr-[129px] pb-[75px] justify-center items-center">
+        <section id="Hero" className="pt-[160px] flex flex-row pl-[95px] pr-[129px] justify-center items-center">
             <div className="flex flex-col mr-[70px]">
                 <h1 className="text-2xl font-semibold">Halo,</h1>
                 <h1 className="text-2xl font-semibold">Saya Darren Dharmasaputra K.</h1>
